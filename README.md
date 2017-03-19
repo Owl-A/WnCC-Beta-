@@ -1,12 +1,12 @@
 <h1>
 programs for convener screening 
 </h1>
-<----------
->
+----------------------------------
+
 <p>
-made for convener screening of WnCC, IIT Bombay<br/>
-The sraping one was just out of fun<br/>
-apparently azlyrics is not that bot friendly and stops responding if rate of requests crosses some limit<br/><br/>
+made for convener screening of WnCC, IIT Bombay<br/></p>
+<p style="color:#ff0000"> Please consider the code **for Task 2** in subtitles directory for my evaluation </p>   
+<p>The sraping one was just out of fun<br/><br/>
 </p>
 <h2> Subtitle generator </h2><br/><br/>
 <h3> run.py </h3><br/>
